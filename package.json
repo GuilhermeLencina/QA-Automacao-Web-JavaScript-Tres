@@ -1,0 +1,14 @@
+{
+  "name": "qa-automacao-web-javascript-tres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Guilherme",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
